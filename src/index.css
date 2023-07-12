@@ -87,3 +87,17 @@ form {
   align-items: center;
   width: 100%;
 }
+
+.clima p:first-of-type{
+  font-size: 3rem;
+}
+
+.clima p {
+  text-align: center;
+  margin: 0;
+}
+
+.clima p span {
+  font-size: 1rem;
+  vertical-align: super;
+}
